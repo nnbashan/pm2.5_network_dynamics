@@ -1,6 +1,7 @@
 # pm2.5_network_dynamics
 
 npj Climate and Atmospheric Science - Dynamics of PM2.5 and Network Activity During Extreme Pollution Events
+
 Corresponding Author: Professor Qi Wang (q.wang@northeastern.edu) (Northeastern University)
 Contributing Authors: Mr Nail Bashan , Dr Weiyu Li
 
